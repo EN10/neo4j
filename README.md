@@ -6,8 +6,11 @@
 * [LEARN WITH GRAPHACADEMY](https://graphacademy.neo4j.com)
 * [Sessions and Transactions](https://graphacademy.neo4j.com/courses/app-python/2-interacting/1-transactions/)
 
-
-### example.py
+## example.py
 Code based on: 
 * [Use Your Favorite Programming Languages - Python](https://neo4j.com)
 * [Remote Guides - auradb/movies - What is Cypher?](https://neo4j.com/developer/cypher/guide-build-a-recommendation-engine/#recommendation-queries)
+
+## import from csv
+* [Northwind Graph Guide](https://guides.neo4j.com/northwind/index.html)
+* [Northwind CSV Dataset](https://github.com/neo4j-documentation/developer-resources/tree/gh-pages/data/northwind)
