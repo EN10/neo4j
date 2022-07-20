@@ -9,13 +9,13 @@ driver = GraphDatabase.driver(
 
 # Cypher query
 cypher_query = '''
-Match (m:Movie) where m.released > 2000 RETURN m limit 5
+Match (m:Movie) where m.released > 2000 RETURN m.title limit 5
 '''
 
 with driver.session(database="neo4j") as session:
     results = session.run(cypher_query).data()
 
 for record in results:
-    print(record['m']['title'])
+    print(record['m.title'])
 
 driver.close()
