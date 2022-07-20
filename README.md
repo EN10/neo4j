@@ -14,3 +14,4 @@ Code based on:
 ## import from csv
 * [Northwind Graph Guide](https://guides.neo4j.com/northwind/index.html)
 * [Northwind CSV Dataset](https://github.com/neo4j-documentation/developer-resources/tree/gh-pages/data/northwind)
+* [Neo4j Data Importer](https://graphacademy.neo4j.com/courses/importing-data/2-using-data-importer/2-c-importing-CSV)
