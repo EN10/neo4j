@@ -17,3 +17,5 @@ with driver.session(database="neo4j") as session:
 
 for record in results:
     print(record['m']['title'])
+
+driver.close()
