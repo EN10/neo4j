@@ -5,6 +5,7 @@
 * [Tutorial: Build a Cypher Recommendation Engine](https://neo4j.com/developer/cypher/guide-build-a-recommendation-engine)
 * [LEARN WITH GRAPHACADEMY](https://graphacademy.neo4j.com)
 * [Sessions and Transactions](https://graphacademy.neo4j.com/courses/app-python/2-interacting/1-transactions/)
+* [How does a graph database differ from a relational database?](https://www.youtube.com/watch?v=41qdmKIIMz0)
 
 ## example.py
 Code based on: 
